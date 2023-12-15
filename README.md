@@ -1,15 +1,22 @@
-# Intro to Data Science
+# Programming for Data Science and Visualization
 ## Description
-Briefly explain the purpose of the repository and the course.
+This repository contains all the assignments for the Programming for Data Science and Visualization course. The course covers various machine learning algorithm including data analysis, data visualization, linear gression and logistic regression.
+
 ## Table of Contents
-List the contents of the repository, such as datasets, notebooks, and documentation.
-## Installation
-Specify any dependencies or setup instructions.
-## Usage
-Provide information on how to run and use the code.
-## Results
-Include key findings or results from your assignment.
+This repo contains assignments related to the following Machine Learning algorithm:
+- [Data Analysis](data-analysis)
+- [Data Visualization](data-viz)
+- [Linear Regression](linear-regression)
+- [Logistic Regression](logistic-regression)
+
+## Getting started
+To get started with this repository, simply clone the repository onto your local machine using the following command: `git clone https://github.com/pdynhi/intro-to-data-science.git`
+
+## Contributing
+If you find any issues or would like to contribute to this repository, please submit a pull request or contact the repository owner.
+
+## Authors
+Nhi Pham.
+
 ## Acknowledgments
-Give credit to any external resources or libraries used.
-## License
-Mention the license under which your code is shared.
+Dang Huynh for providing the assignments and guidance throughout the course.
