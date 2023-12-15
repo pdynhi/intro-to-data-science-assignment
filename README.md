@@ -4,10 +4,10 @@ This repository contains all the assignments for the Programming for Data Scienc
 
 ## Table of Contents
 This repo contains assignments related to the following Machine Learning algorithm:
-- [Data Analysis](intro-to-data-science/data-analysis)
-- [Data Visualization](intro-to-data-science/data-viz)
-- [Linear Regression](intro-to-data-science/linear-regression)
-- [Logistic Regression](intro-to-data-science/logistic-regression)
+- [Data Analysis](data-analysis)
+- [Data Visualization](data-viz)
+- [Linear Regression](linear-regression)
+- [Logistic Regression](logistic-regression)
 
 ## Getting started
 To get started with this repository, simply clone the repository onto your local machine using the following command: `git clone https://github.com/pdynhi/intro-to-data-science.git`
